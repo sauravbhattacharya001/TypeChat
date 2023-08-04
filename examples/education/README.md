@@ -9,3 +9,7 @@ To run the Education example, follow the instructions in the [examples README](.
 # Usage
 
 Example prompts can be found in [`src/input.txt`](./src/input.txt).
+
+# Command
+
+    cls | npm run build | node .\dist\main.js .\dist\input.txt
